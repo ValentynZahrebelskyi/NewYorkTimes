@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19F101" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Article" representedClassName="Article" syncable="YES" codeGenerationType="class">
+        <attribute name="abstract" optional="YES" attributeType="String"/>
+        <attribute name="adx_keywords" optional="YES" attributeType="String"/>
+        <attribute name="asset_id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="byline" optional="YES" attributeType="String"/>
+        <attribute name="column" optional="YES" attributeType="String"/>
+        <attribute name="des_facet" optional="YES" attributeType="Transformable"/>
+        <attribute name="eta_id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="geo_facet" optional="YES" attributeType="Transformable"/>
+        <attribute name="htmlData" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="nytdsection" optional="YES" attributeType="String"/>
+        <attribute name="org_facet" optional="YES" attributeType="Transformable"/>
+        <attribute name="per_facet" optional="YES" attributeType="Transformable"/>
+        <attribute name="published_date" optional="YES" attributeType="String"/>
+        <attribute name="section" optional="YES" attributeType="String"/>
+        <attribute name="source" optional="YES" attributeType="String"/>
+        <attribute name="subsection" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="type" optional="YES" attributeType="String"/>
+        <attribute name="update" optional="YES" attributeType="String"/>
+        <attribute name="uri" optional="YES" attributeType="String"/>
+        <attribute name="url" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Article" positionX="-63" positionY="-18" width="128" height="373"/>
+    </elements>
+</model>
